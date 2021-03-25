@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Joha
+- 👀 I’m interested in Full Stack Development
+- 🌱 I’m currently learning Redux, React, Sass, PostgreSQL
+- 📫 How to reach me: johakim9936@gmail.com
