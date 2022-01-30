@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Joha
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Redux, React, Sass, PostgreSQL
-- 💻 I'm an incoming SWE intern at HubSpot
+- 👀 I’m interested in full stack web and app development
+- 🌱 I’m currently learning React and React Native
+- 💻 I'm an incoming software engineer at HubSpot
 - 📫 How to reach me: johakim9936@gmail.com
